@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-#this is python program
-=======
->>>>>>> python
+# this is python program
 print("hello world")
