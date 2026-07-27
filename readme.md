@@ -1,7 +1,7 @@
 # the best github repo out there
-this is the readme.
-the best way are:
+This is the readme.
+The best way are:
 eat
 sleep
 repeat
-thank youuuu.
+Thank youuuu.
